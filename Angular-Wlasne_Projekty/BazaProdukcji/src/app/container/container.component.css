@@ -1,0 +1,5 @@
+.mainData {
+    width: 100%;
+    height: calc(100% - 30px - 20px);
+    background-color: rgb(200, 200, 200);
+}
